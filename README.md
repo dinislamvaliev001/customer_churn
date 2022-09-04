@@ -1,4 +1,4 @@
-# customer_churn
+# customers_churn
 
 _отток клиентов_
 
